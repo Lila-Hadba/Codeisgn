@@ -1,0 +1,19 @@
+header {
+    padding: 1rem
+    margin: 1rem
+}
+
+main {
+    padding: 1rem
+    height: 50%
+}
+
+.Botão:active {
+    border-left-color: black;
+}
+
+.Botão:active span {
+    position: relative;
+    top: 1rem;
+    border-bottom-color: pink;
+}
